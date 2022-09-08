@@ -1,4 +1,4 @@
-# Easy-Windows-Software-Patcher-Batch-Script-
+# Easy Windows Software Patcher ( Batch Script, .bat )
 Make a simple windows Patcher using command prompts.
 ```
 @echo off
@@ -36,3 +36,6 @@ pause
 
 
 ```
+    
+   
+> Edit the Patcher to target your software activation server's and Registry entry's for activation completeness.
